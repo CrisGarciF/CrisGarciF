@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrisGarciF
+- 👋 Hi, I’m Cristian Garcia.
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning backend and next.js .
 - 💞️ I’m looking to collaborate on projects.
