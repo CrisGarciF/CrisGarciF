@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cristian Garcia M.
+- 👋 Hi, I’m Cristian Garcia M
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning backend and next.js .
 - 💞️ I’m looking to collaborate on projects.
