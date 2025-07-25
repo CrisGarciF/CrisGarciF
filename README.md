@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cristian Garcia M
-- 👀 I’m interested in technology.
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning backend and next.js 
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me linkedin - https://www.linkedin.com/in/cristian-garcia-mesa-2b035a1b1/
